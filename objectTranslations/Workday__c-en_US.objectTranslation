@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Workday</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Workdays</value>
+    </caseValues>
+    <fields>
+        <help><!-- Select this field if you are awesome --></help>
+        <label><!-- AwesomeSauce --></label>
+        <name>AwesomeSauce__c</name>
+    </fields>
+    <fields>
+        <help><!-- AutoNumberDemo --></help>
+        <label><!-- WorkdayAutoNumberField --></label>
+        <name>WorkdayAutoNumberField__c</name>
+    </fields>
+    <fields>
+        <help><!-- This will help you see how AutoRABIT commits and deploys picklists and their values. --></help>
+        <label><!-- Workday --></label>
+        <name>Workday__c</name>
+        <picklistValues>
+            <masterLabel>OffSat</masterLabel>
+            <translation><!-- OffSat --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OffSun</masterLabel>
+            <translation><!-- OffSun --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkdayFri</masterLabel>
+            <translation><!-- WorkdayFri --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkdayMon</masterLabel>
+            <translation><!-- WorkdayMon --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkdayThu</masterLabel>
+            <translation><!-- WorkdayThu --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkdayTue</masterLabel>
+            <translation><!-- WorkdayTue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WorkdayWed</masterLabel>
+            <translation><!-- WorkdayWed --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
